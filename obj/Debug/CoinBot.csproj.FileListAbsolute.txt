@@ -1,0 +1,9 @@
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\bin\Debug\bot-test.exe
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\bin\Debug\bot-test.pdb
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\CoinBot.csprojResolveAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\bot_test.MainPage.resources
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\bot_test.Properties.Resources.resources
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\CoinBot.csproj.GenerateResource.cache
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\CoinBot.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\bot-test.exe
+C:\Users\DELL-PC\Desktop\bot\CoinBot\CoinBot\obj\Debug\bot-test.pdb
